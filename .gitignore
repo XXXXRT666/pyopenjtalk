@@ -6,6 +6,8 @@ pyopenjtalk/open_jtalk_dic_utf_8-1.11/
 docs/generated
 sample.*
 
+.mypy_cache
+
 # Created by https://www.gitignore.io
 
 ### Python ###
